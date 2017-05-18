@@ -11,7 +11,6 @@ kramdown:
 highlighter: rouge
 
 paginate: 20
-baseurl: /
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
