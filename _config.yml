@@ -8,7 +8,7 @@ kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: false
 highlighter: rouge
-baseurl: /
+baseurl: /watcv
 
 paginate: 20
 google_analytics: 'UA-XXXXXXXX-X'
