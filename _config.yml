@@ -3,7 +3,6 @@ description: Teaching Assistant Workshop Facilitator Example WatCV
 meta_description: 
 
 aboutPage: false
-
 markdown: kramdown
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
