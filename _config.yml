@@ -10,7 +10,7 @@ kramdown:
 highlighter: rouge
 
 url: https://watcv.github.io
-baseurl: 
+baseurl: / 
 
 paginate: 20
 google_analytics: 'UA-XXXXXXXX-X'
