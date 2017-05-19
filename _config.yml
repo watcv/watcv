@@ -8,7 +8,9 @@ kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: false
 highlighter: rouge
-baseurl: /watcv
+
+url: https://watcv.github.io
+baseurl: 
 
 paginate: 20
 google_analytics: 'UA-XXXXXXXX-X'
